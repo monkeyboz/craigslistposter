@@ -1,7 +1,7 @@
 <?php
   class db {
-    var $username = 'monkeyboz';
-    var $password = 'ntisman1';
+    var $username = '';
+    var $password = '';
     var $server = 'localhost';
     var $database = 'micarloader';
     var $connect = '';
